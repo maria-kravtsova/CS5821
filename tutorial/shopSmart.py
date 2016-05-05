@@ -29,7 +29,7 @@ def shopSmart(orderList, fruitShops):
         fruitShops: List of FruitShops
     """
     "*** YOUR CODE HERE ***"
-        index = 0
+    index = 0
     mintotal = fruitShops[index].getPriceOfOrder(orderList)
     for i in range (1,len(fruitShops)):
         shop = fruitShops[i]
