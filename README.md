@@ -1,4 +1,7 @@
-# cs188x
-Self study of UC Berkeley course CS188x Artificial Intelligence, available on edx. 
+# CS5821 Intro to Machine Learning at WMU
 
-Book used is Artificial Intelligence: The Modern Approach, and the language for the programs is Python.
+professor: Dr. Fong
+book: An Introduction to Statistical Learning
+with Applications in R by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+Note: Learning R independently.
